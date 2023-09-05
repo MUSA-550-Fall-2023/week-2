@@ -12,7 +12,8 @@
 ## Recommended Readings
 
 - [Guide to getting started with matplotlib](https://pbpython.com/effective-matplotlib.html)
-- [Plotting & visualization chapter of Python for Data Analysis](https://wesmckinney.com/book/plotting-and-visualizationl)
+- [Plotting & visualization chapter of Python for Data Analysis](https://wesmckinney.com/book/plotting-and-visualization)
+  - A good introduction to plotting with matplotlib, pandas, and seaborn
 - Altair:
   - [Introduction to Statistical Visualization](https://altair-viz.github.io/getting_started/starting.html)
   - [Interactive charts with altair](https://altair-viz.github.io/user_guide/interactions.html)
